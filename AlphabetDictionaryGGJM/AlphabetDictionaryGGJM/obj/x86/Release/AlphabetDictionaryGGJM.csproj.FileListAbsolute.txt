@@ -1,0 +1,14 @@
+C:\Users\Louis\Desktop\AlphabetDictionaryGGJM\AlphabetDictionaryGGJM\bin\Release\AlphabetDictionaryGGJM.exe
+C:\Users\Louis\Desktop\AlphabetDictionaryGGJM\AlphabetDictionaryGGJM\bin\Release\AlphabetDictionaryGGJM.pdb
+C:\Users\Louis\Desktop\AlphabetDictionaryGGJM\AlphabetDictionaryGGJM\bin\Release\System.Data.SQLite.dll
+C:\Users\Louis\Desktop\AlphabetDictionaryGGJM\AlphabetDictionaryGGJM\obj\x86\Release\AlphabetDictionaryGGJM.AlphabetDictionaryMain.resources
+C:\Users\Louis\Desktop\AlphabetDictionaryGGJM\AlphabetDictionaryGGJM\obj\x86\Release\AlphabetDictionaryGGJM.BuildAlphabetSystem.BuildAlphabetSystemMainForm.resources
+C:\Users\Louis\Desktop\AlphabetDictionaryGGJM\AlphabetDictionaryGGJM\obj\x86\Release\AlphabetDictionaryGGJM.Properties.Resources.resources
+C:\Users\Louis\Desktop\AlphabetDictionaryGGJM\AlphabetDictionaryGGJM\obj\x86\Release\AlphabetDictionaryGGJM.csproj.GenerateResource.Cache
+C:\Users\Louis\Desktop\AlphabetDictionaryGGJM\AlphabetDictionaryGGJM\obj\x86\Release\AlphabetDictionaryGGJM.exe
+C:\Users\Louis\Desktop\AlphabetDictionaryGGJM\AlphabetDictionaryGGJM\obj\x86\Release\AlphabetDictionaryGGJM.pdb
+C:\Users\Louis\Desktop\AlphabetDictionaryGGJM\AlphabetDictionaryGGJM\bin\Release\AlphabetDictionaryGGJM.exe.config
+C:\Users\Louis\Desktop\AlphabetDictionaryGGJM\AlphabetDictionaryGGJM\obj\x86\Release\AlphabetDictionaryGGJM.csprojResolveAssemblyReference.cache
+C:\Users\Louis\Desktop\AlphabetDictionaryGGJM\AlphabetDictionaryGGJM\obj\x86\Release\AlphabetDictionaryGGJM.AlphabetPracticeSystem.AlphabetPracticeSystem.resources
+C:\Users\Louis\Desktop\AlphabetDictionaryGGJM\AlphabetDictionaryGGJM\obj\x86\Release\AlphabetDictionaryGGJM.AlphabetQuizSystem.AlphabetQuizSystem.resources
+C:\Users\Louis\Desktop\AlphabetDictionaryGGJM\AlphabetDictionaryGGJM\obj\x86\Release\AlphabetDictionaryGGJM.AlphabetQuicklyQuizSystem.AlphabetQuicklyQuizSystem.resources
